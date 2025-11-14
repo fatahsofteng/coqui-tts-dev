@@ -1,5 +1,6 @@
-file1|zahra membeli jus kiwi di pasar dekat xylophone antik|zahra membeli jus kiwi di pasar dekat xylophone antik
-file2|joko dan fitri cepat menulis huruf abjad dari a sampai z|joko dan fitri cepat menulis huruf abjad dari a sampai z
-file3|qori memainkan gitar dan vokal jazz dengan tempo lambat|qori memainkan gitar dan vokal jazz dengan tempo lambat
-file4|setiap hari wendy berolahraga sambil membaca buku favoritnya|setiap hari wendy berolahraga sambil membaca buku favoritnya
-file5|xena berziarah ke puncak gunung membawa jaket wol ungu|xena berziarah ke puncak gunung membawa jaket wol ungu
+audio_file|text|speaker_name
+wavs/file1.wav|zahra membeli jus kiwi di pasar dekat xylophone antik|fatah
+wavs/file2.wav|joko dan fitri cepat menulis huruf abjad dari a sampai z|fatah
+wavs/file3.wav|qori memainkan gitar dan vokal jazz dengan tempo lambat|fatah
+wavs/file4.wav|setiap hari wendy berolahraga sambil membaca buku favoritnya|fatah
+wavs/file5.wav|xena berziarah ke puncak gunung membawa jaket wol ungu|fatah
